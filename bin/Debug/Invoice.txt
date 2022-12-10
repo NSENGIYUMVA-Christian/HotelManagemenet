@@ -1,0 +1,13 @@
+FULL NAME                    bcn
+GENDER                       Female
+CHECK IN DATE                5/11/2022
+CHECK OUT DATE               18/11/2022
+ROOM NUMBER                  105
+PRICE PER NIGHT              5$
+TOTAL AMOUNT TO BE PAID      65$
+VALUE ADDED TAX              11.7$
+INCOME                       53.3$
+
+CLIENT SIGNATURE                           
+         NOBILIS HOTEL AND APARTMENT      
+Done on      27/11/2022 9:40:46 pm

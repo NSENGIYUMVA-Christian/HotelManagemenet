@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nobilis_Apartment_ Receipts_Maker", "Nobilis_Apartment_ Receipts_Maker.csproj", "{099FFBBE-8D86-4E4C-A8FB-CE88E9BBDD18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{099FFBBE-8D86-4E4C-A8FB-CE88E9BBDD18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{099FFBBE-8D86-4E4C-A8FB-CE88E9BBDD18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{099FFBBE-8D86-4E4C-A8FB-CE88E9BBDD18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{099FFBBE-8D86-4E4C-A8FB-CE88E9BBDD18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CFB4088-EABA-41F8-A470-19CB3F54DA94}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,102 @@
+﻿<Window x:Class="Nobilis_Apartment__Receipts_Maker.RoomsManagement"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Nobilis_Apartment__Receipts_Maker"
+        mc:Ignorable="d" Background="Orange" WindowState="Maximized" 
+        Title="RoomsManagement" Height="800" Width="800">
+    <ScrollViewer>
+    <Border Margin="30" >
+        <StackPanel>
+            <TextBlock  Text="Welcome to rooms report system" FontWeight="Bold"
+                        Margin="20,20,20,0" HorizontalAlignment="Center" Foreground="Black" FontStyle="Italic"
+                        FontSize="25" 
+                        />
+            <Image Source="/Images/Logo.png" Width="141" Height="100" Margin="0,20,0,20"/>
+            <TextBlock  Text="Please tick the Rooms which are available for sale" FontWeight="Bold"
+                        Margin="20" HorizontalAlignment="Center" Foreground="Black" FontStyle="Italic"
+                        FontSize="15"
+                        />
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition x:Name="r1"/>
+                        <RowDefinition x:Name="r2"/>
+                        <RowDefinition x:Name="r3"/>
+                        <RowDefinition x:Name="r4"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+               
+        <!-- Single Rooms Selection -->
+            <Expander Grid.Column="0" Grid.Row="0" FontSize="25" FontWeight="Bold" Foreground="Chocolate" Margin="10" Header="Click here to view Single Rooms">
+                <StackPanel Margin="5" >
+                    <CheckBox x:Name="rm102" Checked="rm102_Checked" Unchecked="rm102_Unchecked" Foreground="Wheat" Content="ROOM 102"/>
+                    <CheckBox x:Name="rm105" Checked="rm105_Checked" Unchecked="rm105_Unchecked"  Foreground="Wheat" Content="ROOM 105"/>
+                </StackPanel> 
+            </Expander>
+            <!-- Double Rooms Selection -->
+            <Expander Grid.Column="0" Grid.Row="1" FontSize="25" FontWeight="Bold" Foreground="Chocolate" Margin="10" Header="Click here to view Double Rooms">
+                <StackPanel>
+                    <CheckBox x:Name="rm101" Foreground="Wheat" Content="ROOM 101"/>
+                    <CheckBox Foreground="Wheat" Content="ROOM 104"/>
+                    <CheckBox Foreground="Wheat" Content="ROOM 203"/>
+                    <CheckBox Foreground="Wheat" Content="ROOM 206"/>
+                    <CheckBox Foreground="Wheat" Content="ROOM 209"/>
+                    <CheckBox Foreground="Wheat" Content="ROOM 306"/>
+                </StackPanel>
+            </Expander>
+            <!-- Junior Rooms Selection -->
+            <Expander Grid.Column="0" Grid.Row="2" FontSize="25" FontWeight="Bold" Foreground="Chocolate" Margin="10" Header="Click here to view Double Rooms">
+                <StackPanel>
+                    <CheckBox Foreground="Wheat" Content="ROOM 103"/>
+                    <CheckBox Foreground="Wheat" Content="ROOM 106"/>
+                </StackPanel>
+            </Expander>
+            <!-- Standard Rooms Selection -->
+            <Expander Grid.Column="0" Grid.Row="3"  FontSize="25" FontWeight="Bold" Foreground="Chocolate" Margin="10" Header="Click here to view Double Rooms">
+                <StackPanel>
+                    <CheckBox Foreground="Wheat" Content="ROOM 202"/>
+                    <CheckBox Foreground="Wheat" Content="ROOM 205"/>
+                    <CheckBox Foreground="Wheat" Content="ROOM 208"/>
+                    <CheckBox Foreground="Wheat" Content="ROOM 301"/>
+                    <CheckBox Foreground="Wheat" Content="ROOM 303"/>
+                    <CheckBox Foreground="Wheat" Content="ROOM 305"/>
+                </StackPanel>
+            </Expander>
+            <!--  Senior Rooms Selection -->
+            <Expander Grid.Column="0" Grid.Row="4" FontSize="25" FontWeight="Bold" Foreground="Chocolate" Margin="10" Header="Click here to view Double Rooms">
+                <StackPanel>
+                    <CheckBox Foreground="Wheat" Content="ROOM 201"/>
+                    <CheckBox Foreground="Wheat" Content="ROOM 204"/>
+                    <CheckBox Foreground="Wheat" Content="ROOM 207"/>
+                </StackPanel>
+            </Expander>
+            <!-- Twins Rooms Selection -->
+            <Expander Grid.Column="0" Grid.Row="5" FontSize="25" FontWeight="Bold" Foreground="Chocolate" Margin="10" Header="Click here to view Double Rooms">
+                <StackPanel>
+                    <CheckBox Foreground="Wheat" Content="ROOM 302"/>
+                    <CheckBox Foreground="Wheat" Content="ROOM 304"/>
+                </StackPanel>
+            </Expander>
+            <!-- Column 2 definition  -->
+                    <StackPanel Grid.Column="2" Grid.RowSpan="6">
+                        <Label   Content="List of selected rooms for sale" FontSize="30" Background="Chocolate"/>
+
+                        <ListBox  x:Name="RoomsLbox" Height="300" Width="200" HorizontalAlignment="Center" BorderThickness="10" BorderBrush="Chocolate"/>
+                        <StackPanel Orientation="Horizontal" Width="200">
+                            <Button  x:Name="backToChoose" Content="BACK" Width="100" Height="20" Click="backToChoose_Click" />
+                            <Button x:Name="RoomSave" Content="SAVE" Width="100" Margin="20" Click="RoomSave_Click" />
+                        </StackPanel>
+
+                    </StackPanel>
+
+                </Grid>
+            </StackPanel>
+    </Border>
+    </ScrollViewer>
+</Window>

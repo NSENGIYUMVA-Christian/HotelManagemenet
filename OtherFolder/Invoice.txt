@@ -1,0 +1,13 @@
+FULL NAME                    4
+GENDER                       Female
+CHECK IN DATE                4/11/2022
+CHECK OUT DATE               3/12/2022
+ROOM NUMBER                  105
+PRICE PER NIGHT              56$
+TOTAL AMOUNT TO BE PAID      1624$
+VALUE ADDED TAX              292.32$
+INCOME                       1331.68$
+
+CLIENT SIGNATURE                           
+         NOBILIS HOTEL AND APARTMENT      
+Done on      27/11/2022 9:34:10 pm

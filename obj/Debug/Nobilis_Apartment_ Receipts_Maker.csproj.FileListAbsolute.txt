@@ -1,0 +1,64 @@
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\bin\Debug\Nobilis_Apartment_ Receipts_Maker.exe.config
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\bin\Debug\Nobilis_Apartment_ Receipts_Maker.exe
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\bin\Debug\Nobilis_Apartment_ Receipts_Maker.pdb
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\Nobilis_Apartment_ Receipts_Maker.csproj.AssemblyReference.cache
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\Nobilis_Apartment_ Receipts_Maker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\MainWindow.g.cs
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\App.g.cs
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\Nobilis_Apartment_ Receipts_Maker_MarkupCompile.cache
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\Nobilis_Apartment_ Receipts_Maker_MarkupCompile.lref
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\MainWindow.baml
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\Nobilis_Apartment_ Receipts_Maker.g.resources
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\Nobilis_Apartment__Receipts_Maker.Properties.Resources.resources
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\Nobilis_Apartment_ Receipts_Maker.csproj.GenerateResource.cache
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\Nobilis_Apartment_ Receipts_Maker.csproj.CoreCompileInputs.cache
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\Nobilis_Apartment_ Receipts_Maker.exe
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\Nobilis_Apartment_ Receipts_Maker.pdb
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\Window1.g.cs
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\Window1.baml
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\LogInWindow.g.cs
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\LogInWindow.baml
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\ChooseWorkWindow.g.cs
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\ChooseWorkWindow.baml
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\RoomsManagement.g.cs
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\RoomsManagement.baml
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\bin\Debug\Spire.Doc.dll
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\bin\Debug\Spire.Pdf.dll
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\bin\Debug\Spire.Doc.xml
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\bin\Debug\Spire.Pdf.xml
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\KitchenManagement.g.cs
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\KitchenManagement.baml
+C:\Users\Cococe Ltd\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\Nobilis_Apartment_ Receipts_Maker.csproj.CopyComplete
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\bin\Debug\Nobilis_Apartment_ Receipts_Maker.exe.config
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\bin\Debug\Nobilis_Apartment_ Receipts_Maker.exe
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\bin\Debug\Nobilis_Apartment_ Receipts_Maker.pdb
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\bin\Debug\Spire.Doc.dll
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\bin\Debug\Spire.Pdf.dll
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\bin\Debug\Microsoft.mshtml.dll
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\bin\Debug\Spire.Doc.xml
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\bin\Debug\Spire.Pdf.xml
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\Nobilis_Apartment_ Receipts_Maker.csproj.AssemblyReference.cache
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\Nobilis_Apartment_ Receipts_Maker.csproj.SuggestedBindingRedirects.cache
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\ChooseWorkWindow.g.cs
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\KitchenManagement.g.cs
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\LogInWindow.g.cs
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\MainWindow.g.cs
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\RoomsManagement.g.cs
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\Window1.g.cs
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\App.g.cs
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\Nobilis_Apartment_ Receipts_Maker_MarkupCompile.cache
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\Nobilis_Apartment_ Receipts_Maker_MarkupCompile.lref
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\ChooseWorkWindow.baml
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\KitchenManagement.baml
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\LogInWindow.baml
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\MainWindow.baml
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\RoomsManagement.baml
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\Window1.baml
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\Nobilis_Apartment_ Receipts_Maker.g.resources
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\Nobilis_Apartment__Receipts_Maker.Properties.Resources.resources
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\Nobilis_Apartment_ Receipts_Maker.csproj.GenerateResource.cache
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\Nobilis_Apartment_ Receipts_Maker.csproj.CoreCompileInputs.cache
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\Nobilis_Apartment_ Receipts_Maker.csproj.CopyComplete
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\Nobilis_Apartment_ Receipts_Maker.exe
+C:\Users\MOG-AG\Desktop\mine\missions\ALL LEARNINGS\COMPUTER\C#\Final Apps\WPF\Nobilis_Apartment_ Receipts_Maker\obj\Debug\Nobilis_Apartment_ Receipts_Maker.pdb
